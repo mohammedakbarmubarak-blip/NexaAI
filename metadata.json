@@ -1,0 +1,6 @@
+{
+  "name": "NexaAI",
+  "description": "Think. Create. Build. — Modern AI Assistant with multi-model intelligence, projects, files, and conversation workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
